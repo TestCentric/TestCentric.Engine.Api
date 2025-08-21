@@ -1,6 +1,6 @@
 # TestCentric Test Engine
 
-** THIS REPOSITORY IS NO LONGER MAINTAINED OR UPDATED**
+**THIS REPOSITORY IS NO LONGER MAINTAINED OR UPDATED**
 
 **The TestCentric engine API is now part of the TestCentricRunner repository.**
 
